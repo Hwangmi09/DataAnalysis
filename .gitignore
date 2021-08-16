@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+roadapikey.txt
+kakaoapikey.txt
+guideSearchApi/
